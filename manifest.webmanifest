@@ -1,11 +1,11 @@
 {
-  "name": "BjBygg.WebApi",
-  "short_name": "BjBygg.WebApi",
+  "name": "Bj Bygg og Eiendom",
+  "short_name": "Bj Bygg",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/kbtvAngularLive/",
+  "start_url": "/kbtvAngularLive/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
