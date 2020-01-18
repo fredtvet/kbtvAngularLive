@@ -4984,8 +4984,8 @@ __webpack_require__.r(__webpack_exports__);
 // The list of file replacements can be found in `angular.json`.
 var environment = {
     production: false,
-    //apiUrl: 'https://bjbyggwebapiv1.azurewebsites.net/api'
-    apiUrl: 'https://localhost:44379/api'
+    apiUrl: 'https://bjbyggwebapiv1.azurewebsites.net/api'
+    //apiUrl: 'https://localhost:44379/api'
 };
 /*
  * In development mode, to ignore zone related error stack frames such as
