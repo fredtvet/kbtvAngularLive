@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1581187820286,
+  "timestamp": 1581188327524,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -39,14 +39,9 @@
       "updateMode": "prefetch",
       "urls": [
         "/assets/android-chrome-144x144.png",
-        "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-16x16.png",
+        "/assets/icons/icon-32x32.png"
       ],
       "patterns": []
     }
@@ -64,21 +59,16 @@
     "/9-es2015.228a90c499b25b482d7c.js": "075bb7124c89f058234fd3b29b73664a34a7108a",
     "/9-es5.228a90c499b25b482d7c.js": "a9b19f0c62d6fd00742ff8a8c23ad8e5f384cba0",
     "/assets/android-chrome-144x144.png": "8e7957fbbcbca9fb7f77d98cf04deba0f4ddcd6c",
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/icon-144x144.png": "8e7957fbbcbca9fb7f77d98cf04deba0f4ddcd6c",
+    "/assets/icons/icon-16x16.png": "2ad67f47d77ecc1bdec3904e7151a5173ea684b2",
+    "/assets/icons/icon-32x32.png": "afbf5616832cfe907bcdc46a62f495c519d24f51",
     "/common-es2015.325071c4aab5b1291253.js": "89de1887c2e52f4fa22d43a3445593ccfec3914c",
     "/common-es5.325071c4aab5b1291253.js": "5477eeaa3fbed7a704ce9c1ffef6edd5042a9353",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/index.html": "c3043fcdc67a3f9fd10834ed296b00cd55c041da",
     "/main-es2015.e8e7947facddf1bf06bb.js": "b5f732ee44865450283fbfeb616cea797aca5af4",
     "/main-es5.e8e7947facddf1bf06bb.js": "ced786294d8d7ecc9439abdb3450bf53274b1368",
-    "/manifest.webmanifest": "d98a59b0f21321a17768155072e6aa49f6ef4b45",
+    "/manifest.webmanifest": "2a1e4c408a23cf5ba402ee1d5f544a8ce6b1a8ea",
     "/polyfills-es2015.b00a8ee45d22faafa706.js": "c37a8026023b3688ee0707b4afee9adfc3d4c95e",
     "/polyfills-es5.8de5fca6e8c20518eff8.js": "150715c33b16144692d809e7843206541c89683d",
     "/runtime-es2015.5e792f9a6d8a96b45b98.js": "9f1b6fecb58d16e92447b05d6b151c5fe2768a65",
