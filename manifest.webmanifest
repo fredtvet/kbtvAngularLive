@@ -5,7 +5,7 @@
   "background_color": "#303030",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "/hjem",
   "icons": [
     {
       "src": "assets/icons/icon-16x16.png",
