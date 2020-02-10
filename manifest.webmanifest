@@ -4,8 +4,8 @@
   "theme_color": "#000000",
   "background_color": "#303030",
   "display": "standalone",
-  "scope": "/kbtvAngularLive/",
-  "start_url": "/kbtvAngularLive/",
+  "scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "assets/icons/icon-16x16.png",
