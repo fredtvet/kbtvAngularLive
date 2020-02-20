@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1582228984154,
+  "timestamp": 1582230347167,
   "index": "/kbtvAngularLive/index.html",
   "assetGroups": [
     {
@@ -22,8 +22,8 @@
         "/common-es5.51ceda692638119a0d02.js",
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.804204b536b3dff56384.js",
-        "/main-es5.804204b536b3dff56384.js",
+        "/main-es2015.31ebe8d3ee42ab963d75.js",
+        "/main-es5.31ebe8d3ee42ab963d75.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.b00a8ee45d22faafa706.js",
         "/polyfills-es5.8de5fca6e8c20518eff8.js",
@@ -73,9 +73,9 @@
     "/common-es2015.51ceda692638119a0d02.js": "fb11c39eb961d8f55bb8d2bef95e5f0f1f134e9e",
     "/common-es5.51ceda692638119a0d02.js": "4fbe046203cb6771bd0e54f558a11a9520c2a6b6",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "8eb2a749f65f95d12eff70c3e8e37ca7bc8fe5fc",
-    "/main-es2015.804204b536b3dff56384.js": "3f97a387edcc5b0be089941be8adc62dd122df00",
-    "/main-es5.804204b536b3dff56384.js": "c1a8ca0c9f82c9f6a2db47c6339120aa67a27c05",
+    "/index.html": "cec34cc392a16625047b65658df37abcd0dca819",
+    "/main-es2015.31ebe8d3ee42ab963d75.js": "c50d24327fdc0176ef28618730c2a93aa13167b4",
+    "/main-es5.31ebe8d3ee42ab963d75.js": "d7c0e4a6d12298688cbd83ba6a902eae2047be4a",
     "/manifest.webmanifest": "604004bf32f811920a1465fd7369543eba5998cf",
     "/polyfills-es2015.b00a8ee45d22faafa706.js": "c37a8026023b3688ee0707b4afee9adfc3d4c95e",
     "/polyfills-es5.8de5fca6e8c20518eff8.js": "150715c33b16144692d809e7843206541c89683d",
