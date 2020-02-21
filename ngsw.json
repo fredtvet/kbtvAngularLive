@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1582309206589,
+  "timestamp": 1582309355811,
   "index": "/kbtvAngularLive/index.html",
   "assetGroups": [
     {
@@ -77,7 +77,7 @@
     "/common-es2015.625e2e53c3f213cb794b.js": "fa0525278cc1f76fe3ed368ebd1a249d47ecede4",
     "/common-es5.625e2e53c3f213cb794b.js": "7de1e0343e41860a8e9162ab8d2c4718abe882c3",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "906148ae8cbda3030b6abe2579e7125c841ebe8c",
+    "/index.html": "b31792ef003ddbeaf43eed02e047d194c0759e74",
     "/main-es2015.54e559c50b3560c7e150.js": "0989c84e12e13ec0fb713df9e8d5f541ff69fcc1",
     "/main-es5.54e559c50b3560c7e150.js": "d52d0e391510c7358e8c111933a2c206668f9163",
     "/manifest.webmanifest": "604004bf32f811920a1465fd7369543eba5998cf",
