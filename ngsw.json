@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1582309355811,
+  "timestamp": 1582386511018,
   "index": "/kbtvAngularLive/index.html",
   "assetGroups": [
     {
@@ -8,10 +8,10 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/10-es2015.a474b441f2bdda9520ea.js",
-        "/10-es5.a474b441f2bdda9520ea.js",
-        "/11-es2015.a3029a122f2fd20043a8.js",
-        "/11-es5.a3029a122f2fd20043a8.js",
+        "/10-es2015.31e2a2eb8b49a307f2a8.js",
+        "/10-es5.31e2a2eb8b49a307f2a8.js",
+        "/11-es2015.5b1bca3a91a57ea62f1a.js",
+        "/11-es5.5b1bca3a91a57ea62f1a.js",
         "/2-es2015.357efd54eadf5e37a512.js",
         "/2-es5.357efd54eadf5e37a512.js",
         "/7-es2015.85bb5e3fc8dccc8d386c.js",
@@ -24,14 +24,14 @@
         "/common-es5.625e2e53c3f213cb794b.js",
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.54e559c50b3560c7e150.js",
-        "/main-es5.54e559c50b3560c7e150.js",
+        "/main-es2015.fe92f3920b2abe9fcb40.js",
+        "/main-es5.fe92f3920b2abe9fcb40.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.7c4fff09cda350f2d479.js",
         "/polyfills-es5.c6d7099f8b4f279dee63.js",
-        "/runtime-es2015.12177ca9540ddc87d405.js",
-        "/runtime-es5.12177ca9540ddc87d405.js",
-        "/styles.264d977fd7a734479780.css"
+        "/runtime-es2015.e8a8f6d38c6816bea06c.js",
+        "/runtime-es5.e8a8f6d38c6816bea06c.js",
+        "/styles.2dde9eb0e979ca67b184.css"
       ],
       "patterns": []
     },
@@ -54,10 +54,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/10-es2015.a474b441f2bdda9520ea.js": "ccb184f486534c5d8f5c1f1819c03990ff119259",
-    "/10-es5.a474b441f2bdda9520ea.js": "c07478f9be729bed33f223c46b6831018feac16f",
-    "/11-es2015.a3029a122f2fd20043a8.js": "6826c79c5e5aa9318701c450439b123d6b680251",
-    "/11-es5.a3029a122f2fd20043a8.js": "1187845f5a4ff7ea9a59da4f97797202fa8bc2de",
+    "/10-es2015.31e2a2eb8b49a307f2a8.js": "9e886492374495eb8c01490c04e95a1e3aec6ea0",
+    "/10-es5.31e2a2eb8b49a307f2a8.js": "77762ac6b955362ecaa9b7ff5516bb633637589b",
+    "/11-es2015.5b1bca3a91a57ea62f1a.js": "cb3c34ebdff98124a44623ce6dd221fc554b7092",
+    "/11-es5.5b1bca3a91a57ea62f1a.js": "ac362c091b7f2350d4dff7e783a6de355c500271",
     "/2-es2015.357efd54eadf5e37a512.js": "c373fa5d676262fe0b2b7c650d60c5f90b1ea836",
     "/2-es5.357efd54eadf5e37a512.js": "c373fa5d676262fe0b2b7c650d60c5f90b1ea836",
     "/7-es2015.85bb5e3fc8dccc8d386c.js": "3593afdfa5dcc84dc38806200a16c045524f2132",
@@ -77,15 +77,15 @@
     "/common-es2015.625e2e53c3f213cb794b.js": "fa0525278cc1f76fe3ed368ebd1a249d47ecede4",
     "/common-es5.625e2e53c3f213cb794b.js": "7de1e0343e41860a8e9162ab8d2c4718abe882c3",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "b31792ef003ddbeaf43eed02e047d194c0759e74",
-    "/main-es2015.54e559c50b3560c7e150.js": "0989c84e12e13ec0fb713df9e8d5f541ff69fcc1",
-    "/main-es5.54e559c50b3560c7e150.js": "d52d0e391510c7358e8c111933a2c206668f9163",
-    "/manifest.webmanifest": "604004bf32f811920a1465fd7369543eba5998cf",
+    "/index.html": "07343a3e72be9c35063a15fbf8fab02c0accdff0",
+    "/main-es2015.fe92f3920b2abe9fcb40.js": "e8e6e8ea3895f0e4b91c7a94d106c635fda420ec",
+    "/main-es5.fe92f3920b2abe9fcb40.js": "89e1cf1ac55e47fb707e1152fea8ae74e98be378",
+    "/manifest.webmanifest": "73cec100a8def12b861be781612872815aca7e13",
     "/polyfills-es2015.7c4fff09cda350f2d479.js": "98effc987d48ec6bef2341641594fbf8d1b85048",
     "/polyfills-es5.c6d7099f8b4f279dee63.js": "8d51c06458209de00cdb1329a9a6d3c4ec5ffd6b",
-    "/runtime-es2015.12177ca9540ddc87d405.js": "09ae016cace5a70edaf33346fd9616be4793ba68",
-    "/runtime-es5.12177ca9540ddc87d405.js": "ce48a12732e261f49cc67b377f72f1abc5acd486",
-    "/styles.264d977fd7a734479780.css": "9cbb13156d8940cc698b22ad1337166bf5491bd1"
+    "/runtime-es2015.e8a8f6d38c6816bea06c.js": "e6f213bb1c3a6376e9f91b8065fb8661a6fa9fde",
+    "/runtime-es5.e8a8f6d38c6816bea06c.js": "6878e244860e6c157f12a5f2046edcf804ffe975",
+    "/styles.2dde9eb0e979ca67b184.css": "e056fcf138c7b28316714d34c47b51058718e6ec"
   },
   "navigationUrls": [
     {
