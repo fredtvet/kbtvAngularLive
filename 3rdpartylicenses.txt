@@ -112,6 +112,8 @@ THE SOFTWARE.
 
 @angular/material/autocomplete
 
+@angular/material/bottom-sheet
+
 @angular/material/button
 
 @angular/material/checkbox
@@ -131,8 +133,6 @@ THE SOFTWARE.
 @angular/material/icon
 
 @angular/material/list
-
-@angular/material/menu
 
 @angular/material/progress-spinner
 
