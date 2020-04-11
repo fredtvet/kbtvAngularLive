@@ -122,8 +122,6 @@ THE SOFTWARE.
 
 @angular/material/core
 
-@angular/material/datepicker
-
 @angular/material/dialog
 
 @angular/material/divider
@@ -259,8 +257,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-undefined
-
 jwt-decode
 MIT
 The MIT License (MIT)
@@ -313,6 +309,8 @@ THE SOFTWARE.
 
 ngx-google-places-autocomplete
 MIT
+
+undefined
 
 regenerator-runtime
 MIT
