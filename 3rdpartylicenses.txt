@@ -130,8 +130,6 @@ THE SOFTWARE.
 
 @angular/material/divider
 
-@angular/material/expansion
-
 @angular/material/form-field
 
 @angular/material/grid-list
@@ -263,8 +261,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-undefined
-
 hammerjs
 MIT
 The MIT License (MIT)
@@ -314,6 +310,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
+undefined
 
 ng-pick-datetime
 MIT
