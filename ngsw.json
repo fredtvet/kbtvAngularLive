@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1591120793184,
+  "timestamp": 1591124389002,
   "index": "/kbtvAngularLive/kbtvAngularLive/index.html",
   "assetGroups": [
     {
@@ -8,24 +8,24 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/kbtvAngularLive/1.01b87a301ebf249fd711.js",
-        "/kbtvAngularLive/10.d989dea57ca813bb3038.js",
+        "/kbtvAngularLive/1.fb609e61025b818c29a3.js",
+        "/kbtvAngularLive/10.cfa1ea36fbd632a6561a.js",
         "/kbtvAngularLive/11.75c6a6444d68743ccf48.js",
         "/kbtvAngularLive/12.7fae0c6affef3a92e3af.js",
         "/kbtvAngularLive/13.306db8bf55d0da049e96.js",
         "/kbtvAngularLive/14.c6e084c4d8118954dbdb.js",
         "/kbtvAngularLive/2.54d99e805de368e38701.js",
         "/kbtvAngularLive/3.4e15e112280d5ae2077c.js",
-        "/kbtvAngularLive/8.978c013aaf932119b037.js",
+        "/kbtvAngularLive/8.15100c4fccbfe12d1c79.js",
         "/kbtvAngularLive/9.e400d9601e40fabfed55.js",
         "/kbtvAngularLive/favicon.ico",
         "/kbtvAngularLive/index.html",
-        "/kbtvAngularLive/main.0ecdc8cb5fa97ca5f79e.js",
+        "/kbtvAngularLive/main.0ea8bb53b4c47f5cecb8.js",
         "/kbtvAngularLive/manifest.webmanifest",
         "/kbtvAngularLive/polyfills-es5.77bcfa7fc725a7302899.js",
         "/kbtvAngularLive/polyfills.142aee16a0e6a3fa040b.js",
-        "/kbtvAngularLive/runtime.db9fb4c8476e584d3f46.js",
-        "/kbtvAngularLive/styles.47aee4cea6ca1df1814b.css"
+        "/kbtvAngularLive/runtime.c664c40e5ead7ce3bbb0.js",
+        "/kbtvAngularLive/styles.dc1221e0a5b456a02668.css"
       ],
       "patterns": []
     },
@@ -56,15 +56,15 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/kbtvAngularLive/1.01b87a301ebf249fd711.js": "3be375148d6cd8acb3a07f27373d9bb710899d13",
-    "/kbtvAngularLive/10.d989dea57ca813bb3038.js": "bb4baec050def70bc515f8e2c85c44dac302e0eb",
+    "/kbtvAngularLive/1.fb609e61025b818c29a3.js": "55a5c30d04960c7f0d410ab0f983d8b68bbf98c8",
+    "/kbtvAngularLive/10.cfa1ea36fbd632a6561a.js": "36476a7cfebbecf373dd03ba7b446a9f14d1d388",
     "/kbtvAngularLive/11.75c6a6444d68743ccf48.js": "e892cf26b640aa582bad48505ebb81c1a33009cc",
     "/kbtvAngularLive/12.7fae0c6affef3a92e3af.js": "cef4b307fa814c184a7fd46b241349e01b86c3a8",
     "/kbtvAngularLive/13.306db8bf55d0da049e96.js": "3a66e863073ebb398e9e776d05f41963b5511ee9",
     "/kbtvAngularLive/14.c6e084c4d8118954dbdb.js": "9927caff5739bf2610535eefb538dfe395fe96c1",
     "/kbtvAngularLive/2.54d99e805de368e38701.js": "a58049269ae31685e03e2ccbf46154fe4960ef44",
     "/kbtvAngularLive/3.4e15e112280d5ae2077c.js": "ae26aab91dfad94e3e75c84b32eb02f2cb0c1e03",
-    "/kbtvAngularLive/8.978c013aaf932119b037.js": "9e6d35ce12a830e1309e7207f12187354d10207e",
+    "/kbtvAngularLive/8.15100c4fccbfe12d1c79.js": "cf0df3d2be301e290cff182e6b2bbf07738517a4",
     "/kbtvAngularLive/9.e400d9601e40fabfed55.js": "f21012817fa6dc6a52808b4906538c961e536002",
     "/kbtvAngularLive/assets/icons/icon-128x128.png": "d29f15df6f292710f25a4559122bdd0da2c945fa",
     "/kbtvAngularLive/assets/icons/icon-144x144.png": "d349d5e2beac640645635a4f5ebe0dd24f91c606",
@@ -83,13 +83,13 @@
     "/kbtvAngularLive/assets/svg/icons/pdf.svg": "1f86f04d402381f56207b66aa9d4968df46a4837",
     "/kbtvAngularLive/assets/svg/icons/word.svg": "51a725a6a1b18f582890d3ca1e77146050f41d96",
     "/kbtvAngularLive/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/kbtvAngularLive/index.html": "d1711d302997baa1fc45a6e3317d15667ce25b62",
-    "/kbtvAngularLive/main.0ecdc8cb5fa97ca5f79e.js": "fea7edc2f9bd48809f936e7653ab86d0502bb309",
+    "/kbtvAngularLive/index.html": "177b92aa5e4c5215c52c9790ce2e4ea07650efd5",
+    "/kbtvAngularLive/main.0ea8bb53b4c47f5cecb8.js": "66f34cb1bb7bf68f9080e93469b4c98cf1bae3d5",
     "/kbtvAngularLive/manifest.webmanifest": "7f7c49c9e837c60135af054da51b2cb7738d6e77",
     "/kbtvAngularLive/polyfills-es5.77bcfa7fc725a7302899.js": "1c9aeac1c476d366e52265f6ecb20fb7268afd20",
     "/kbtvAngularLive/polyfills.142aee16a0e6a3fa040b.js": "efa497cdd1f0a3e7bbb0c4a4d5afa46a47acd129",
-    "/kbtvAngularLive/runtime.db9fb4c8476e584d3f46.js": "11c7ce063575c1eac0212bb74462215552add64b",
-    "/kbtvAngularLive/styles.47aee4cea6ca1df1814b.css": "d283f3d941f5bc38c747c166c23923109fe5f6f7"
+    "/kbtvAngularLive/runtime.c664c40e5ead7ce3bbb0.js": "fdf114f517b86fde24cdd9c48cc874fa6e3533b2",
+    "/kbtvAngularLive/styles.dc1221e0a5b456a02668.css": "5aaf81381e5b4a5bac898d0d1c253de184fbb4ff"
   },
   "navigationUrls": [
     {
