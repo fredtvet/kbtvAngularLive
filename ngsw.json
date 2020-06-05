@@ -1,12 +1,12 @@
 {
   "configVersion": 1,
-  "timestamp": 1591292655818,
+  "timestamp": 1591316701598,
   "index": "/kbtvAngularLive/kbtvAngularLive/index.html",
   "assetGroups": [
     {
       "name": "app",
-      "installMode": "prefetch",
-      "updateMode": "prefetch",
+      "installMode": "lazy",
+      "updateMode": "lazy",
       "urls": [
         "/kbtvAngularLive/10.e1d0ba60bc9e43a6ce6e.js",
         "/kbtvAngularLive/11.5779ad5c9dc7a2f9295c.js",
@@ -21,7 +21,7 @@
         "/kbtvAngularLive/common.f3575872e2b876148fbf.js",
         "/kbtvAngularLive/favicon.ico",
         "/kbtvAngularLive/index.html",
-        "/kbtvAngularLive/main.e859430883b8619d62df.js",
+        "/kbtvAngularLive/main.83af4dbfd1976c955d27.js",
         "/kbtvAngularLive/manifest.webmanifest",
         "/kbtvAngularLive/polyfills-es5.5c9c09e8d1bfce2ad535.js",
         "/kbtvAngularLive/polyfills.203f9e8ff8abd1aeab13.js",
@@ -33,7 +33,7 @@
     {
       "name": "assets",
       "installMode": "lazy",
-      "updateMode": "prefetch",
+      "updateMode": "lazy",
       "urls": [
         "/kbtvAngularLive/assets/icons/icon-128x128.png",
         "/kbtvAngularLive/assets/icons/icon-144x144.png",
@@ -91,8 +91,8 @@
     "/kbtvAngularLive/assets/svg/icons/word.svg": "51a725a6a1b18f582890d3ca1e77146050f41d96",
     "/kbtvAngularLive/common.f3575872e2b876148fbf.js": "625e2f1cf169ffcb7231f488693ad8cfd132d1db",
     "/kbtvAngularLive/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/kbtvAngularLive/index.html": "7983e4e74b15334651c25217b55896f610ba56e5",
-    "/kbtvAngularLive/main.e859430883b8619d62df.js": "f36614910f0e4b4e0bbf93e9aaef760fb69e379e",
+    "/kbtvAngularLive/index.html": "68b6c2745a53d42fc1cb9bb5e2582c89e7ddb7fb",
+    "/kbtvAngularLive/main.83af4dbfd1976c955d27.js": "91f63ad86c5b4a43241ce0b173d57f186c245f03",
     "/kbtvAngularLive/manifest.webmanifest": "7f7c49c9e837c60135af054da51b2cb7738d6e77",
     "/kbtvAngularLive/polyfills-es5.5c9c09e8d1bfce2ad535.js": "c8f8dd42cf179a3d907948690e7389db86190b6a",
     "/kbtvAngularLive/polyfills.203f9e8ff8abd1aeab13.js": "eef19035e2481fb8042487a851bfbe5f53108120",
