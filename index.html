@@ -12,13 +12,41 @@
   <link rel="manifest" href="manifest.webmanifest">
   <meta name="theme-color" content="#212121">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
-<link rel="stylesheet" href="styles.152a867316b1a2f50f17.css"></head>
-<body class="background-color">
-  <app-root></app-root>
+  <style>
+    body{
+      background:#d7ccc8;
+    }
+    @keyframes spinner {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+  .init-spinner:before {
+    content: "";
+    box-sizing: border-box;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top:calc(50% - 50px);
+    left:calc(50% - 50px);
+    border-radius: 50%;
+    border: 2px solid #d7ccc8;
+    border-top-color: #6d4c41;
+    animation: spinner 0.8s linear infinite;
+  }
+  </style>
+<link rel="stylesheet" href="styles.7132237a74e390a51138.css"></head>
+<body>
+  <app-root>
+
+      <span class="init-spinner">&nbsp;</span>
+    
+  </app-root>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUWZmwjGN92B3PoNS6x6qpOmc3xrP55d8&amp;libraries=places&amp;language=no"></script>
   <noscript>
     For å bruke nettsiden må du aktivere Javascript.
     Her finner du <a href="https://www.enable-javascript.com/no/">
     instruksjoner for hvordan du aktiverer Javascript i nettleseren</a>.</noscript>
-<script src="runtime.3da5e2f6aa15f853f1c0.js" defer></script><script src="polyfills-es5.5d9cdac7cad40a772701.js" nomodule defer></script><script src="polyfills.e7697a834846862ad370.js" defer></script><script src="main.8e6ad8dffb6821d7f576.js" defer></script></body>
+<script src="runtime.94ecc1435fc49fed2e2e.js" defer></script><script src="polyfills-es5.5d9cdac7cad40a772701.js" nomodule defer></script><script src="polyfills.e7697a834846862ad370.js" defer></script><script src="main.b7df9e6e8c7478b9b040.js" defer></script></body>
 </html>
